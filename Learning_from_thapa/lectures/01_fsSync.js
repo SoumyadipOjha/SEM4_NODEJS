@@ -1,7 +1,7 @@
 const fs = require('fs');
 // !creating a new file
 
-// fs.writeFileSync('read.txt',"Welcome in node JS");
+fs.writeFileSync('read.txt',"Welcome in node JS");
 
 // !overwrite
 
